@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78479a40-cb61-4737-98f9-4959e65b1b67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uOYR9r8XgDBoPBK0AltROShE9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Flutter_Projects\tim\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Flutter_Projects\tim\lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78479a40-cb61-4737-98f9-4959e65b1b67" name="Default Changelist" comment="" />
+      <created>1624538091208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624538091208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627560558966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1627560558966" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626931784401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626931784401" />
+    <state x="100" y="100" width="1125" height="840" key="AVDManager" timestamp="1628058282981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="100" width="1125" height="840" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1628058282981" />
+    <state x="714" y="238" key="FileChooserDialogImpl" timestamp="1628140214616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="238" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1628140214616" />
+    <state width="1309" height="316" key="GridCell.Tab.0.bottom" timestamp="1628058434105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1309" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628058434105" />
+    <state width="1309" height="316" key="GridCell.Tab.0.center" timestamp="1628058434105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1309" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628058434105" />
+    <state width="1309" height="316" key="GridCell.Tab.0.left" timestamp="1628058434104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1309" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628058434104" />
+    <state width="1309" height="316" key="GridCell.Tab.0.right" timestamp="1628058434105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1309" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628058434105" />
+    <state x="367" y="340" key="Registry" timestamp="1627415803918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="367" y="340" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1627415803918" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1626069857017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1626069857017" />
+    <state x="162" y="131" width="1322" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1627471960432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="162" y="131" width="1322" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627471960432" />
+    <state x="525" y="155" width="585" height="564" key="find.popup" timestamp="1628584077247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="155" width="585" height="564" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1628584077247" />
+    <state x="433" y="184" width="672" height="676" key="search.everywhere.popup" timestamp="1628061894496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="433" y="184" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1628061894496" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/models/getSegmentlist.dart</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/functional/managment.dart</url>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/profile.dart</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/request_details.dart</url>
+          <line>10</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/models/registrationfinal.dart</url>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/splash_screen.dart</url>
+          <line>34</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/add_request.dart</url>
+          <line>71</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/preferences.dart</url>
+          <line>63</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/add_request.dart</url>
+          <line>121</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/request_details.dart</url>
+          <line>107</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/main_drower.dart</url>
+          <line>275</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/functional/functions.dart</url>
+          <line>169</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/preferences.dart</url>
+          <line>48</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/employment.dart</url>
+          <line>30</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/functional/functions.dart</url>
+          <line>1111</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/profile.dart</url>
+          <line>306</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

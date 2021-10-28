@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801869304507",
+    "project_id": "timpulse-3e5b1",
+    "storage_bucket": "timpulse-3e5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801869304507:android:5e1e4cecbcc64b2e34cf9e",
+        "android_client_info": {
+          "package_name": "com.annaniks.timpulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801869304507-465apaah7mt29tauqgrfveiaan8p8q8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuHwjCpK-84wo6b8MVci7m7y_kFxCKntM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801869304507-465apaah7mt29tauqgrfveiaan8p8q8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
